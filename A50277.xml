@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Method and practice defended, or, The London writing-master answer'd by John Matlock.</title>
+            <author>Matlock, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50277</idno>
+            <idno type="STC">Wing M1292B</idno>
+            <idno type="STC">ESTC R15598</idno>
+            <idno type="EEBO-CITATION">13351931</idno>
+            <idno type="OCLC">ocm 13351931</idno>
+            <idno type="VID">99194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99194)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 466:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Method and practice defended, or, The London writing-master answer'd by John Matlock.</title>
+                  <author>Matlock, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by Thomas Sawbridge ..., and Luke Meredith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Writing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99194:1"/>
+            <pb facs="tcp:99194:1"/>
+            <p>
+               <hi>Method</hi> and <hi>Practice</hi> DEFENDED: OR, THE LONDON Writing-Maſter ANSWER'D.</p>
+            <p>By <hi>JOHN MATLOCK.</hi>
+            </p>
+            <p>
+               <q xml:lang="lat">Praxis ſine Methodo nihil valet: Sed Praxis Methodi perfecit Artem.</q>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>Octob. 7th. 1685.</date>
+                           </dateline> 
+                           <signed>ROB. MIDGLEY.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the AUTHOR: And are to be Sold by <hi>Thomas Sawbridge,</hi> at the <hi>Bible</hi> on <hi>Ludgate-Hill;</hi> and <hi>Luke Meredith,</hi> at the <hi>King's-Head</hi> in St. <hi>Paul's Church-Yard.</hi> MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99194:2"/>
+            <pb n="3" facs="tcp:99194:2"/>
+            <head>TO THE Moſt JUDICIOUS Writing-Maſters OF THIS KINGDOM.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S Exactneſs of Judgment is to be ad<g ref="char:EOLhyphen"/>mired; ſo that which is fallacious, being cauſed from the Precipitati<g ref="char:EOLhyphen"/>on of the Brain, and for want of due Conſideration, ought to be re<g ref="char:EOLhyphen"/>jected: Therefore, I ſhall only re<g ref="char:EOLhyphen"/>commend my ſelf to You, whoſe Knowledge is acquired by Reaſon, and whoſe Reaſon is perfected by the uſe of Knowledge; theſe Acquirements and Practiſes alone, rendring the Judgment undepraved: And as for the
+<pb n="4" facs="tcp:99194:3"/>Cenſures of thoſe <hi>Demi-Artizans,</hi> I ſcorn; who make a Profeſſion of Knowledge and Maſterſhip in the Art of <hi>Writing,</hi> and yet are not aſhamed freely to confeſs, that they underſtand not the Method, <hi>(viz.)</hi> the <hi>Rules, Pre<g ref="char:EOLhyphen"/>cepts,</hi> and <hi>Principles</hi> thereof. Theſe, (to whom <hi>Senſe</hi> is a Riddle, and <hi>Reaſon</hi> a Paradox) being always in Exceſſes and Extreams, can never make a ſound and Judicious Choice; but raſhly judge of what they only know confuſedly, and ob<g ref="char:EOLhyphen"/>ſcurely.</p>
+            <p>The Matter referred to your exactly diſcerning Judgments, is, That <hi>A-la-Mode</hi> being grieved at the mentioning in my <hi>Fax Nova,</hi> the Victory obtain'd by the <hi>Engliſh Secretary;</hi> he ſends his <hi>Polemical</hi> Forces to combat, that Method, with which his Judgment before had made an amicable League: But theſe proving too weak, to abide the Reſiſtance of a ſound Method, <hi>A-la-Mode</hi> makes a diſhonourable Retreat, and ſhelters his batter'd and ſubdu'd Arguments under the Sanctuary of the Law, threatning the Publication thereof; and that, his Skill failing him, he was reſolved to try his Fortune another way; and thereupon he challeng'd me to a Tryal of Maſterſhip, for no leſs than an Hundred Guin<g ref="char:EOLhyphen"/>nies. To which I return'd this Anſwer; Three Things are equally neceſſary for the compleating of a <hi>Maſter</hi> in the Art of <hi>Writing, (viz.)</hi> a ſound <hi>Method,</hi> agreeable <hi>Examples,</hi> and <hi>Ortography, &amp; tria ſunt omnia.</hi> Now, <hi>Sir,</hi> I will joyn iſſue with You on theſe Three undeniable Evidences of <hi>Pen-man<g ref="char:EOLhyphen"/>ſhip;</hi> and if I prove not my ſelf to excel You in all, or moſt of theſe Three before-mentioned, I will not only loſe my Wager, but the Lawrel too. I expect, that you ſhall meet me half way; and then I will ſubmit to the Judgment of any Judicious Perſon or Perſons, that ſhall be indifferently, choſen to judge of our <hi>Method, Ortography,</hi> and <hi>Examples;</hi> and no Errors ſhall be allowed againſt either, but what,
+<pb n="5" facs="tcp:99194:3"/>ſhall be proved; and the Sufficiency of the Proof ſhall reſt in the Judgment of them, whom we ſhall agree on for our Judges. This I doubt not, but You, and every unbyaſſed Perſon, will deem ſufficient, and every way pertinent, for the obtaining of a right Judgment in our Skill and Perfor<g ref="char:EOLhyphen"/>mances. Which my <hi>Antagoniſt</hi> not daring to accept of, he endeavours to avoyd, by averring, That <hi>None are able to give their Opinions either in Method or Ortography; and therefore, he will not be cenſured in either: But if he does not perform by as certain a Method, and undeniable Principles, as my ſelf, he ſays, He will loſe the Wager, and the Lawrel too.</hi>
+            </p>
+            <p>Were theſe the Words of any Other, but the Renown<g ref="char:EOLhyphen"/>ed <hi>A.</hi> the eſteemed <hi>Phoenix</hi> of our Nation, it had been a greater Violence than I could have offer'd to my Reaſon, to have Anſwer'd them, ſince the Contradictions in them deſtroy each other: <hi>If I perform not by as certain a Me<g ref="char:EOLhyphen"/>thod,</hi> &amp;c. and, <hi>None can judge of Method,</hi> &amp;c. being as irreconcileable, as <hi>Richard</hi> and <hi>Baxter.</hi>
+            </p>
+            <p>That which we perform our Work by, being the on<g ref="char:EOLhyphen"/>ly Rule and Meaſure of our Performances, makes our Works either good or bad, according to the Exactneſs, or Im<g ref="char:EOLhyphen"/>perfections of thoſe Rules and Meaſures they accord with: And if ſo, then They can only judge of our Performan<g ref="char:EOLhyphen"/>ces, that have a right Knowledge of that Method, by which they ought to be meaſured. And beſides, <hi>Method</hi> being a Part of the Art of <hi>Writing,</hi> none are capable to judge be<g ref="char:EOLhyphen"/>tween us, that cannot judge of <hi>Method;</hi> for none can judge of the Whole, that are ignorant of a Part.</p>
+            <p>As for the other Part of my Anſwer, <hi>(viz.) Ortography,</hi> which Mr. <hi>A.</hi> ſays, <hi>None are able to give their Opinions in,
+<pb n="6" facs="tcp:99194:4"/>being a neceſſary Part of Method;</hi> I need not prove it to be a requiſite Knowledge, in order to the pronouncing of a juſt Sentence, in the Art <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Writing.</hi>
+            </p>
+            <p>The next Argu<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> offer'd againſt me, is the form of the Challenge in theſe Words:</p>
+            <p>
+               <hi>My Challenge was to prove you, in the moſt Exact, Curious, and Regular Method of</hi> Writing, <hi>for an Hundred Guinneys.</hi>
+            </p>
+            <p>My Anſwer being every way compleat, and pertinent to this Challenge, my Adverſary would have done well to have accepted of it. For, is it <hi>Method</hi> that he would prove, or try his Skill with me in? There he has <hi>Me<g ref="char:EOLhyphen"/>thod</hi> propos'd to him, as the main Pillar of Art; and in that I am ready to joyn iſſue with him. Is it <hi>Examples,</hi> or <hi>Practice,</hi> that he would excel me in? There he may find me prepar'd to combat him, according to the beſt <hi>Method.</hi>
+            </p>
+            <p>Certainly, a fairer Propoſal than This cannot be made, for a Tryal of Maſterſhip in the Art of <hi>Writing;</hi> which he not daring to accept of, I may juſtly take the Lawrel, which he yields: For he that makes a general Challenge, and afterwards refuſeth to engage upon juſt and equal Terms, is no leſs conquer'd, than he that contends to the laſt, and is worſted.</p>
+            <p>Again, My Adverſary objects, That <hi>the beſt Method can<g ref="char:EOLhyphen"/>not but diſtribute it ſelf ſo, as to produce the moſt exquiſite and exact Performances: And therefore, if Mr.</hi> Matlock <hi>can let us ſee, or would he pretend to, or ſuffer any to judge of his Method beſides himſelf, he ſhould have worn the Lawrel with<g ref="char:EOLhyphen"/>out any Diſturbance from me.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:99194:4"/>
+By theſe Words, <hi>If Mr.</hi> Matlock <hi>can let us ſee,</hi> &amp;c. it appears on what Conditions he is willing to give me the Victory; and he enforceth the Reaſonableneſs of it in theſe Words, <hi>The beſt Method cannot but diſtribute it ſelf ſo, as to produce the moſt exquiſite and exact Performances.</hi> To This I plead Conditions perform'd; which being proved, the Ver<g ref="char:EOLhyphen"/>dict, of neceſſity, muſt go for me; and then, I hope, I ſhall wear the Lawrel without diſturbance.</p>
+            <p>That I am the Author of a <hi>Method</hi> both Good, and Ra<g ref="char:EOLhyphen"/>tional, which is the Conditions required, I prove by theſe Words, which I have under my Oppoſer's own Hand: (Says he,) <hi>I have conſidered your Contents, with your</hi> Method <hi>of Examination of Hands; and your Concluſions thereon, in point of</hi> Beauty, Firmneſs, <hi>and</hi> Expedition; <hi>which are Good, and Rational: And withal, I thank you for your Freedom, in propoſing to me a</hi> Method, <hi>to anſwer all thoſe Excellent Quali<g ref="char:EOLhyphen"/>fications of an Hand.</hi>
+            </p>
+            <p>Certainly, a more undoubted Proof than This, cannot be made: and were This not ſufficient, I might have of<g ref="char:EOLhyphen"/>fer'd in Teſtimony, my <hi>Fax Nova,</hi> the Firſt Method that's Publiſhed of our <hi>Engliſh</hi> Hands; and ſince it's the Firſt, it's the Beſt; till another, that's Better, appears.</p>
+            <p>The Objection made againſt it, (that I know of) is on<g ref="char:EOLhyphen"/>ly by my Antagoniſt, Mr. <hi>A.</hi> who quarrels at the Certain<g ref="char:EOLhyphen"/>ty of Proportion; ſaying, <hi>How tedious is the uſe of Scale and Compaſs?</hi> And indeed, could my Proportions be pra<g ref="char:EOLhyphen"/>ctiſed no other way, this had been a good Argument againſt me; but my Proportions being rightly known, then the Underſtanding will be the Rule, the Eyes the Compaſſes, and the Hand will draw the Lines, according as the Un<g ref="char:EOLhyphen"/>derſtanding directs, and the Eye meaſures: If the Under<g ref="char:EOLhyphen"/>ſtanding
+<pb n="8" facs="tcp:99194:5"/>be not inform'd of the Proportions, it cannot guide the Eye; nor can the Eye ſet direct Bounds for the Hand, but the Hand moves at random.</p>
+            <p>And now I have Finiſhed my <hi>Anſwer</hi> to Mr. <hi>A</hi>'s. Challenge; and therein I appeal to You, who have an entire Knowledge of Your Pro<g ref="char:EOLhyphen"/>feſſion, for Your impartial Judgment: And if You will ſhew me any Error clearly, moderate<g ref="char:EOLhyphen"/>ly, and faithfully, that I ſhould not claim this Victory, obtain'd againſt my Challenging <hi>An<g ref="char:EOLhyphen"/>tagoniſt;</hi> I will not only quit the Lawrel, but I will make a VVork of <hi>Retractions:</hi> But till then not, in the leaſt, think it Arrogancy to aſ<g ref="char:EOLhyphen"/>ſume That, to which my <hi>Anagram</hi> does entitle me,</p>
+            <epigraph>
+               <q>Calamus eſt mihi Honos.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
